@@ -1,0 +1,2 @@
+rootProject.name='Qiuz Application'
+include ':app'
